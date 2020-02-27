@@ -1,1 +1,0 @@
-Robótica I - Proyecto Cuadrúpedo
